@@ -1,0 +1,27 @@
+#import = ["/home/varden/.config/alacritty/themes/themes/gruvbox_material_medium_dark.toml"]
+
+#import = ["/home/varden/.config/alacritty/themes/themes/gruvbox_material_medium_dark.toml"]
+#import = ["/home/varden/.config/alacritty/themes/themes/ayu_dark.toml"]
+#import = ["/home/varden/.config/alacritty/themes/themes/citylights.toml"]
+import = ["/home/varden/.config/alacritty/themes/themes/kanagawa_dragon.toml"]
+#import = ["/home/varden/.config/alacritty/themes/themes/monokai_pro.toml"]
+
+#[font]
+#size = 12.0
+
+#[font.normal]
+#family = "JetBrains-Mono"
+#style = "Regular"
+
+#[font.italic]
+#family = "JetBrains-Mono"
+#style = "Italic"
+
+#[font.bold]
+#family = "JetBrains-Mono"
+#style = "Bold"
+
+#[font.bold_italic]
+#family = "JetBrains-Mono"
+#style = "BoldItalic"
+
