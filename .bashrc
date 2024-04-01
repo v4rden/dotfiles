@@ -1,3 +1,3 @@
 echo +PRAISE THE OMNISSIAH+
-
-export vi=vim
+alias ls='ls -la'
+alias vi=nvim
